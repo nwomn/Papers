@@ -1,0 +1,9 @@
+model_name,total_params
+gated_deltanet-32-2-1M,1084616
+gated_deltanet-64-2-2M,2189704
+gated_deltanet-128-2-5M,4657928
+gated_deltanet-256-2-10M,10038672
+gated_deltanet-384-4-20M,19996336
+gated_deltanet-512-6-38M,38497248
+gated_deltanet-640-10-76M,75585480
+gated_deltanet-768-12-117M,116940576
